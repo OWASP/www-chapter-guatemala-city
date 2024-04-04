@@ -10,17 +10,15 @@ meetup-group:
 ---
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
 
-<div style='color:red;'>
-
 ## Bienvenido
-Include some information here about your chapter
+El Capítulo de OWASP en Guatemala City tiene como objetivo clave fomentar un ambiente colaborativo y proactivo en el ámbito de la seguridad informática y ciberseguridad. Nuestro objetivo primordial es impulsar la educación, sensibilización e investigación en estas áreas, promoviendo la participación de profesionales, académicos y entusiastas. A través de la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala. 
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+OWASP, como fundación sin fines de lucro, se dedica a mejorar la seguridad del software en todo el mundo. Todos sus proyectos, herramientas, documentos, foros y capítulos son de acceso libre y gratuito para cualquier persona interesada en reforzar la seguridad de las aplicaciones. 
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Política de los Capítulos/Chapters Policy](/www-policy/operational/chapters). Las contribuciones financieras deberán sólo ser hechas por los canales autorizados mediante pagos en línea, conforme a los procedimientos establecidos.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/projects/), [Local Chapters](/chapters/), [Eventos](/events/), [Online Groups](https://groups.google.com/a/owasp.com/). Ponemos énfasis en la diversidad en todas nuestras iniciativas. OWASP es un espacio increíble para aprender sobre seguridad en aplicaciones, redes e incluso para construir tu reputación como experto.  Adicionalmente te invitamos a formar parte como [miembro](/membership/) o realizar [donativos](/donate/) y apoyar nuestro trabajo. .
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
