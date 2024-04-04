@@ -11,7 +11,7 @@ meetup-group:
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
 
 ## Bienvenido
-El Capítulo de OWASP en Guatemala City tiene como objetivo clave fomentar un ambiente colaborativo y proactivo en el ámbito de la seguridad informática y ciberseguridad. Nuestro objetivo primordial es impulsar la educación, sensibilización e investigación en estas áreas, promoviendo la participación de profesionales, académicos y entusiastas. A través de la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala. 
+El Capítulo de OWASP en Guatemala tiene como objetivo clave fomentar un ambiente colaborativo y proactivo en el ámbito de la seguridad informática y ciberseguridad. Nuestro objetivo primordial es impulsar la educación, sensibilización e investigación en estas áreas, promoviendo la participación de profesionales, académicos y entusiastas. A través de la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala. 
 
 ## Participation
 OWASP, como fundación sin fines de lucro, se dedica a mejorar la seguridad del software en todo el mundo. Todos sus proyectos, herramientas, documentos, foros y capítulos son de acceso libre y gratuito para cualquier persona interesada en reforzar la seguridad de las aplicaciones. 
