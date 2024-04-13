@@ -20,8 +20,11 @@ Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Políti
 
 Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/projects/), [Capítulos Locales](/chapters/) y [Eventos](/events/). Ponemos énfasis en la diversidad en todas nuestras iniciativas. OWASP es un espacio increíble para aprender sobre seguridad informática, redes e incluso para construir tu reputación como experto.  Adicionalmente te invitamos a formar parte como [miembro](/membership/) o realizar [donativos](/donate/) y apoyar nuestro trabajo.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
+## Próximos meetings 
+
+Programamos nuestras reuniones en Meetup [OWASP Guatemala City Chapter]().
+Nuestros meetings son abiertos al público en general.
+
 {% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
