@@ -25,11 +25,12 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 Programamos nuestras reuniones en Meetup [OWASP Guatemala City Chapter]().
 Nuestros meetings son abiertos al público en general.
 
-Sábado 24 de abril de 2024. Celebramos nuestro primer CHAPTER MEETING. [La importancia de la protección de los datos sensible en las API's](). Donde se tratarán temas como:
+*Miercoles 24 de abril de 2024.* Celebramos nuestro primer CHAPTER MEETING. [La importancia de la protección de los datos sensible en las API's](). Donde se tratarán temas como:
 - Principales amenazas en la seguridad de una API.
 - Breve introducción al OWASP API Top 10.
 - Buenas prácticas de seguridad minimas en las API.
 - Estándares de cumplimientos de protección de datos relacionados
+- Encriptación de los datos sensibles en las API's.
   
 
 
