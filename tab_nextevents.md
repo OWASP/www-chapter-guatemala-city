@@ -1,11 +1,12 @@
 ---
-title: PastEvents
-displaytext: Eventos pasados
+title: nextevents
+displaytext: Próximos eventos
 layout:  null
 tab: true
 order: 2
 tags: chapter-guatemala-city
 ---
 
+## Eventos del 2024
 
-## Meetings del Capítulo
+Por publicar.
