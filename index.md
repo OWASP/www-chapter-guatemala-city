@@ -2,14 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Guatemala City
-tags: chapter-Guatemala-City
+tags: chapter-Guatemala-city
 region: Central America
-country: Guatemala
+country: guatemala
+meetup-group:
 level: 3
 site_side: true
 altfooter: true
-
 ---
+
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
 
 ## Bienvenido
