@@ -5,7 +5,9 @@ title: OWASP Guatemala City
 tags: chapter-Guatemala-City
 region: Central America
 country: Guatemala
-meetup-group:
+level: 3
+site_side: true
+altfooter: true
 
 ---
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
