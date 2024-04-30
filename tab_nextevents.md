@@ -7,4 +7,5 @@ order: 2
 tags: chapter-guatemala-city
 ---
 
+
 ## Meetings del Capítulo
