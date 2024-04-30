@@ -4,7 +4,7 @@ displaytext: Próximos eventos
 layout:  null
 tab: true
 order: 3
-tags: chapter-mexico-city
+tags: chapter-guatemala-city
 ---
 
 ## Eventos del 2024
