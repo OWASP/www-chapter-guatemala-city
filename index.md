@@ -16,7 +16,7 @@ altfooter: true
 ## Bienvenido
 El Capítulo de OWASP en Guatemala tiene como objetivo clave fomentar un ambiente colaborativo y proactivo en el ámbito de la seguridad informática y ciberseguridad. Nuestro objetivo primordial es impulsar la educación, sensibilización e investigación en estas áreas, promoviendo la participación de profesionales, académicos y entusiastas. A través de la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala. 
 
-## Participacion
+## Participación
 OWASP, como fundación sin fines de lucro, se dedica a mejorar la seguridad del software en todo el mundo. Todos sus proyectos, herramientas, documentos, foros y capítulos son de acceso libre y gratuito para cualquier persona interesada en reforzar la seguridad informática. 
 
 Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Política de los Capítulos](/www-policy/operational/chapters). Las contribuciones financieras deberán sólo ser hechas por los canales autorizados mediante pagos en línea, conforme a los procedimientos establecidos.
