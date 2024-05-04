@@ -36,6 +36,10 @@ Nuestros meetings son abiertos al público en general.
 **Ponente:** *Carlos Ganoza*, Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado internacional. Actualmente Lidera la estrategia de ciberseguridad de una importante institución financiera del Perú y es Chapter Leader del capítulo de OWASP Lima.
   
 #### - SCA en Acción: navegando por las dependencias de Software
+Se tendrá una charla sobre: [SCA en Acción: navegando por las dependencias de Software](), donde abordaremos conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
+- Riesgos de dependencias de software
+- Estrategias de gestión de dependencias
+- Implementación de SCA en el ciclo de vida del desarrollo de software
 > [!NOTE]
 > Este Webinar se estará programando en los primeros días de Junio 2024.
 
