@@ -1,12 +1,12 @@
 ---
 
-title: PastEvents
-displaytext: Eventos Pasados
+title: PrevEvents
+displaytext: Eventos Anteriores
 layout: null
 tab: true
-order: 3
-tags: guatemala
+order: 4
+tags: Guatemala
 
 ---
 
-# Eventos Anteriores
+## OWASP Chapter Meetings 2024
