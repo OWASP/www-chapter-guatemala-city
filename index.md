@@ -27,12 +27,12 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 Nuestros meetings son abiertos al público en general.
 
-*Miercoles 24 de abril de 2024* Celebramos nuestro primer CHAPTER MEETING. [La importancia de la protección de los datos sensible en las API's](). Donde se tratarán temas como:
-- Principales amenazas en la seguridad de una API.
-- Breve introducción al OWASP API Top 10.
-- Buenas prácticas de seguridad minimas en las API.
-- Estándares de cumplimientos de protección de datos relacionados
-- Encriptación de los datos sensibles en las API's.
+### Reconocimiento Facial: Un enfoque de seguridad
+*Jueves 16 de mayo de 2024* se tendrá una charla sobre: [Reconocimiento Facial: Un enfoque de seguridad](). Donde abordaremos conceptos generales sobre la biometría y reconocimiento facial:
+- Cómo funcionan.
+- Aspectos Seguridad y cómo la evaluamos adecuadamente.
+- Retos para este tipo de tecnología.
+
   
 
 
