@@ -10,6 +10,19 @@ level: 3
 site_side: true
 altfooter: true
 ---
+<details>
+<summary>Inicio</summary>
+
+Inicio
+
+</details>
+
+<details>
+<summary>Proximos Eventos</summary>
+
+Eventos
+
+</details>
 
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
 
