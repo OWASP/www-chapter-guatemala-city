@@ -27,12 +27,13 @@ Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/pr
 
 Nuestros meetings son abiertos al público en general.
 
-### Reconocimiento Facial: Un enfoque de seguridad
-*Jueves 16 de mayo de 2024* se tendrá una charla sobre: [Reconocimiento Facial: Un enfoque de seguridad](). Donde abordaremos conceptos generales sobre la biometría y reconocimiento facial:
+#### Reconocimiento Facial: Un enfoque de seguridad
+*Jueves 16 de mayo de 2024* se tendrá una charla sobre: [Reconocimiento Facial: Un enfoque de seguridad](), donde abordaremos conceptos generales sobre la biometría y reconocimiento facial:
 - Cómo funcionan.
 - Aspectos Seguridad y cómo la evaluamos adecuadamente.
 - Retos para este tipo de tecnología.
 
+*Ponente* Carlos Ganoza, Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado internacional. Actualmente Lidera la estrategia de ciberseguridad de una importante institución financiera del Perú y es Chapter Leader del capítulo de OWASP Lima.
   
 
 
