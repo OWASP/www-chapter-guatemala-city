@@ -14,14 +14,15 @@ altfooter: true
 <div align="center"><img src="assets/images/owasp-gt.png"></div>
 
 ## Bienvenido
-El Capítulo de OWASP en Guatemala tiene como objetivo clave fomentar un ambiente colaborativo y proactivo en el ámbito de la seguridad informática y ciberseguridad. Nuestro objetivo primordial es impulsar la educación, sensibilización e investigación en estas áreas, promoviendo la participación de profesionales, académicos y entusiastas. A través de la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala. 
+El Capítulo de OWASP en Guatemala tiene como meta principal promover un entorno colaborativo y proactivo en el campo de la seguridad informática y ciberseguridad. Nuestra principal misión es estimular la educación, concienciación e investigación en estos campos, incentivando la participación de profesionales, académicos y aficionados. Mediante la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala.
 
 ## Participación
-OWASP, como fundación sin fines de lucro, se dedica a mejorar la seguridad del software en todo el mundo. Todos sus proyectos, herramientas, documentos, foros y capítulos son de acceso libre y gratuito para cualquier persona interesada en reforzar la seguridad informática. 
 
-Los Capítulos son dirigidos por los líderes locales de acuerdo con la [Política de los Capítulos](/www-policy/operational/chapters). Las contribuciones financieras deberán sólo ser hechas por los canales autorizados mediante pagos en línea, conforme a los procedimientos establecidos.
+OWASP, una organización benéfica que está comprometida con la mejora de la seguridad del software en todo el mundo. Todos sus proyectos, herramientas, documentos, foros y capítulos están disponibles de forma gratuita y abierta para cualquier persona interesada en fortalecer la ciberseguridad.
 
-Todos son bienvenidos e incentivados para participar en nuestros [Proyectos](/projects/), [Capítulos Locales](/chapters/) y [Eventos](/events/). Ponemos énfasis en la diversidad en todas nuestras iniciativas. OWASP es un espacio increíble para aprender sobre seguridad informática, redes e incluso para construir tu reputación como experto.  Adicionalmente te invitamos a formar parte como [miembro](/membership/) o realizar [donativos](/donate/) y apoyar nuestro trabajo.
+Los Capítulos de OWASP son liderados por individuos locales de acuerdo con la [Política de los Capítulos](/www-policy/operational/chapters). Las contribuciones financieras deben realizarse únicamente a través de canales autorizados y siguiendo los procedimientos establecidos.
+
+En OWASP, damos la bienvenida y alentamos la participación de todos en nuestros [proyectos](/projects/), [Capítulos Locales](/chapters/) y [Eventos](/events/). Ponemos un gran énfasis en la diversidad en todas nuestras iniciativas. OWASP ofrece una plataforma excepcional para aprender sobre ciberseguridad, redes y para desarrollar una reputación como experto en el campo. También te invitamos a unirte como [miembro](/membership/) o realizar [donativos](/donate/) para apoyar nuestro trabajo. ¡Únete a nuestra comunidad y contribuye a hacer la web más segura para todos!
 
 ## Próximos meetings 
 
