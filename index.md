@@ -3,8 +3,9 @@
 layout: col-sidebar
 title: OWASP Guatemala City
 tags: chapter-Guatemala-city
+country: Guatemala
+city: Guatemala
 region: Central America
-country: guatemala
 level: 4
 site_side: true
 altfooter: true
