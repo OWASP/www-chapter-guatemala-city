@@ -5,7 +5,7 @@ displaytext: Próximos Eventos
 layout: null
 tab: true
 order: 4
-tags: Guatemala
+tags: chapter-Guatemala-city
 
 ---
 
