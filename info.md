@@ -1,4 +1,4 @@
-### Information
+### Información
 * [Hazte miembro](https://www.owasp.org/index.php/Membership)
 
 ### Social Links
