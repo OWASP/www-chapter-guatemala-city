@@ -40,8 +40,28 @@ tags: Guatemala
 
 
 
-*Jueves 13 de Junio* Se realizó el tercer webinar de OWASP Guatemala City: SCA en Acción: navegando por las dependencias de Software, donde se abordaron conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
+*Jueves 13 de Junio* Se realizó el tercer webinar de OWASP Guatemala City: [SCA en Acción: navegando por las dependencias de Software](https://www.youtube.com/watch?v=axnIMnYbrzw&t=99s), donde se abordaron conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
 
 - Riesgos de dependencias de software
 - Estrategias de gestión de dependencias
 - Implementación de SCA en el ciclo de vida del desarrollo de software
+
+<div align="center" style="padding: 0px; box-shadow: 0 0 35px rgba(77, 233, 224, 0.8);">
+    <img src="assets/images/owasp3.jpg" style="border-radius: 10px;">
+</div>
+
+<div style="height: 5em;"></div>
+
+
+*Martes 23 de Julio* Se realizó el cuarto webinar de OWASP Guatemala City: [Usando OWASP Application Security Verification Standard (ASVS) - Tema 12](https://www.youtube.com/watch?v=zIlZm-LE8NE), donde se abordaron conceptos como:
+
+- Introducción a OWASP ASVS versión 4.0
+- Tema 12: Archivos y Recursos
+- Demostración de vulnerabilidad en carga de archivos (file upload)
+
+
+<div align="center" style="padding: 0px; box-shadow: 0 0 35px rgba(225, 87, 80, 0.8);">
+    <img src="assets/images/owasp4.jpg" style="border-radius: 10px;">
+</div>
+
+<div style="height: 5em;"></div>
