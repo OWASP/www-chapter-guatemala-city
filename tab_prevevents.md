@@ -20,8 +20,10 @@ tags: Guatemala
 
 <div align="center"><img src="assets/images/owasp1.jpg"></div>
 
-<p>  </p>
-<p>  </p>
+-
+-
+-
+
 *Jueves 16 de mayo de 2024* se realizó nuestra segunda charla con el tema: [Reconocimiento Facial: Un enfoque de seguridad](https://www.youtube.com/watch?v=XsV0sGT4iXY), donde abordamos conceptos generales sobre la biometría y reconocimiento facial:
 - Cómo funcionan.
 - Aspectos Seguridad y cómo la evaluamos adecuadamente.
@@ -31,8 +33,10 @@ tags: Guatemala
 
 <div align="center"><img src="assets/images/owasp2.jpg"></div>
 
-<p>  </p>
-<p>  </p>
+-
+-
+-
+
 
 *Jueves 13 de Junio* Se realizó el tercer webinar de OWASP Guatemala City: SCA en Acción: navegando por las dependencias de Software, donde se abordaron conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
 
