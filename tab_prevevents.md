@@ -47,7 +47,7 @@ tags: Guatemala
 - Implementación de SCA en el ciclo de vida del desarrollo de software
 
 <div align="center" style="padding: 0px; box-shadow: 0 0 35px rgba(77, 233, 224, 0.8);">
-    <img src="assets/images/owasp3.jpg" style="border-radius: 10px;">
+    <img src="assets/images/owasp3.jpeg" style="border-radius: 10px;">
 </div>
 
 <div style="height: 5em;"></div>
@@ -61,7 +61,7 @@ tags: Guatemala
 
 
 <div align="center" style="padding: 0px; box-shadow: 0 0 35px rgba(225, 87, 80, 0.8);">
-    <img src="assets/images/owasp4.jpg" style="border-radius: 10px;">
+    <img src="assets/images/owasp4.jpeg" style="border-radius: 10px;">
 </div>
 
 <div style="height: 5em;"></div>
