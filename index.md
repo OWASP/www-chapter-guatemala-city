@@ -29,8 +29,5 @@ En OWASP, damos la bienvenida y alentamos la participación de todos en nuestros
 
 Nuestros meetings son abiertos al público en general.
 
-#### - SCA en Acción: navegando por las dependencias de Software
-*Jueves 13 de Junio* Se tendrá una charla sobre: **[SCA en Acción: navegando por las dependencias de Software]()**, donde abordaremos conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
-- Riesgos de dependencias de software
-- Estrategias de gestión de dependencias
-- Implementación de SCA en el ciclo de vida del desarrollo de software
+#### - Se estarán publicando nuevos Webinar en el transcurso de los proximos días.
+
