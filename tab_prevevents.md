@@ -22,7 +22,7 @@ tags: Guatemala
     <img src="assets/images/owasp1.jpg" style="border-radius: 10px;">
 </div>
 
-
+<div style="height: 3em;"></div>
 
 *Jueves 16 de mayo de 2024* se realizó nuestra segunda charla con el tema: [Reconocimiento Facial: Un enfoque de seguridad](https://www.youtube.com/watch?v=XsV0sGT4iXY), donde abordamos conceptos generales sobre la biometría y reconocimiento facial:
 - Cómo funcionan.
