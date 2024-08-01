@@ -18,16 +18,18 @@ tags: Guatemala
 - Estándares de cumplimientos de protección de datos relacionados
 - Encriptación de los datos sensibles en las API's.
 
-<div align="center"><img src="assets/images/owasp1.jpg"></div>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border: 1px solid #ccc;">
+    <img src="assets/images/owasp1.jpg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
 
 
 
-<p>*Jueves 16 de mayo de 2024* se realizó nuestra segunda charla con el tema: [Reconocimiento Facial: Un enfoque de seguridad](https://www.youtube.com/watch?v=XsV0sGT4iXY), donde abordamos conceptos generales sobre la biometría y reconocimiento facial:</p>
+*Jueves 16 de mayo de 2024* se realizó nuestra segunda charla con el tema: [Reconocimiento Facial: Un enfoque de seguridad](https://www.youtube.com/watch?v=XsV0sGT4iXY), donde abordamos conceptos generales sobre la biometría y reconocimiento facial:
 - Cómo funcionan.
 - Aspectos Seguridad y cómo la evaluamos adecuadamente.
 - Retos para este tipo de tecnología.
 
- <p>*Ponente: Carlos Ganoza*, Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado internacional. Actualmente Lidera la estrategia de ciberseguridad de una importante institución financiera del Perú y es Chapter Leader del capítulo de OWASP Lima. </p>
+ *Ponente: Carlos Ganoza*, Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado internacional. Actualmente Lidera la estrategia de ciberseguridad de una importante institución financiera del Perú y es Chapter Leader del capítulo de OWASP Lima. 
 
 
 <div align="center"><img src="assets/images/owasp2.jpg"></div>
