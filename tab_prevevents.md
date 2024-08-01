@@ -29,3 +29,9 @@ tags: Guatemala
 *Ponente: Carlos Ganoza*, Especialista en InfoSec e Ingeniería de software con más de 12 años de experiencia en el mercado internacional. Actualmente Lidera la estrategia de ciberseguridad de una importante institución financiera del Perú y es Chapter Leader del capítulo de OWASP Lima.
 
 <div align="center"><img src="assets/images/owasp2.jpg"></div>
+
+*Jueves 13 de Junio* Se realizó el tercer webinar de OWASP Guatemala City: SCA en Acción: navegando por las dependencias de Software, donde se abordaron conceptos generales sobre el análisis e integración de dependencias en el software, tocando puntos como:
+
+- Riesgos de dependencias de software
+- Estrategias de gestión de dependencias
+- Implementación de SCA en el ciclo de vida del desarrollo de software
