@@ -18,7 +18,7 @@ tags: Guatemala
 - Estándares de cumplimientos de protección de datos relacionados
 - Encriptación de los datos sensibles en las API's.
 
-<div align="center" style="padding: 1px; box-shadow: 0 0 20px rgba(255, 165, 0, 0.5);">
+<div align="center" style="padding: 0px; box-shadow: 0 0 35px rgba(255, 165, 0, 0.5);">
     <img src="assets/images/owasp1.jpg" style="border-radius: 10px;">
 </div>
 
