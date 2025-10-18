@@ -1,0 +1,23 @@
+leaders:
+  - name: Luis Cordon
+    email: luis.cordon@owasp.org
+  - name: Lester Monterroso
+    email: lester.monterroso@owasp.org
+    github: LesterTechMS
+location:
+  country: Guatemala
+  country_code: GT
+  region: Guatemala
+  city: Guatemala City
+  latitude: 14.6416142
+  longitude: -90.5132836
+name: OWASP Guatemala City
+repositories:
+  - name: www-chapter-guatemala-city
+    url: https://github.com/OWASP/www-chapter-guatemala-city
+    description: OWASP Foundation web repository
+tags:
+  - chapter-Guatemala-city
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-guatemala-city
