@@ -12,9 +12,11 @@ altfooter: true
 ---
 
 
-<div align="center"><img src="assets/images/owasp-gt.png"></div>
+
 
 ## Bienvenido
+<div align="center"><img src="assets/images/owasp-gt.png"></div>
+
 El Capítulo de OWASP en Guatemala tiene como meta principal promover un entorno colaborativo y proactivo en el campo de la seguridad informática y ciberseguridad. Nuestra principal misión es estimular la educación, concienciación e investigación en estos campos, incentivando la participación de profesionales, académicos y aficionados. Mediante la organización de eventos, conferencias, talleres y proyectos de investigación y desarrollo, buscamos fortalecer la comunidad de seguridad informática en Guatemala.
 
 ## Participación
